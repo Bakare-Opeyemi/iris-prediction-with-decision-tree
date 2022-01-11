@@ -11,6 +11,7 @@ The data analysis was carried out using the following python libraries;
   <li> Numpy </li>
   <li> Matplotlib </li>
   <li> Seaborn </li>
+  <li> Graphviz </li>
 </ul>
 
 ### Model
